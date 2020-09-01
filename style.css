@@ -1,0 +1,43 @@
+body{
+    background-color: #b1c4b6;  
+    color: black;
+    text-align : center;
+  }
+  .container{
+    color: black;
+  }
+  .rock{
+    font-weight: 900;
+    font: 50px Arial ;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: whitesmoke;
+    position: relative;
+    right: -540px;
+    top: 80px;
+  }
+  
+  .paper{
+    font-weight: 900;
+    font: 50px Arial ;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: whitesmoke;
+    position: relative;
+    right: -800px;
+    top:  -125px;
+  }
+  
+  .scissors{
+    font-weight: 900;
+    font: 50px Arial ;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: whitesmoke;
+    position: relative;
+    right: -1050px;
+    top:  -325px;
+  }
